@@ -1,0 +1,2 @@
+C:\Users\Viper's\Desktop\Signature\FileSignature\FileSignature\bin\Debug\FileSignature.exe.config
+C:\Users\Viper's\Desktop\Signature\FileSignature\FileSignature\obj\Debug\FileSignature.csprojResolveAssemblyReference.cache
